@@ -1,0 +1,33 @@
+body{
+    background-color:  Seashell;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#conteiner{
+    margin: 10px auto;
+    width: 80%;
+    text-align: center;
+}
+header, nav, main{
+    padding-left: 2%;
+    padding-right: 2%;
+}
+header{
+    width: 98%;
+    height: 200px;
+    background-color: cornsilk;
+    
+}
+nav{
+    background-color:antiquewhite;
+}
+main{
+    background-color:blanchedalmond;
+}
+.logo{
+    width: 150px;
+}
+footer{
+    width: 100%;
+    height: 400px;
+    background-color:burlywood
+}
