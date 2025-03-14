@@ -99,7 +99,7 @@ nav.lateral li a {
 
 /* ao passar o mouse sobre */
 nav.lateral li a:hover {
-    background-color: gray;
+    background-color: blanchedalmond;
     color: white;
 }
 
@@ -119,7 +119,7 @@ nav.superior ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: gray;
+    background-color: blanchedalmond;
     text-align: center;
 }
 
